@@ -1,0 +1,13 @@
+*.pth.tar
+*.pth
+*.h5
+
+data/
+dataset/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.idea/
+.vscode/
