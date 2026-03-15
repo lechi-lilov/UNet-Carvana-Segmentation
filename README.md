@@ -11,7 +11,7 @@ This repository contains a from-scratch PyTorch implementation of the **U-Net** 
 
 **Performance Metrics on Validation Set (Strictly Isolated):**
 * **Accuracy:** 99.56%
-* **Dice Score:** 0.988
+* **Dice Score:** 0.98
 
 ## 🚀 Key Features & Engineering Highlights
 As a deep learning researcher, I focused on building a scalable and optimized pipeline rather than just a working model:
